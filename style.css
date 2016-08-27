@@ -1,5 +1,11 @@
 body{
-background-color: #66ffff;
+background-color: gray;
 
 
+}
+#outDriving{
+  text-decoration: line-through;
+}
+#outDriving img{
+  opacity: 0.5;
 }
